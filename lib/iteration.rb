@@ -42,6 +42,10 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
-  count
+  count=0
+  i=0
+  
+  while i < src.length do
+    if 
   
 end
