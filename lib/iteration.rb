@@ -10,7 +10,7 @@ def join_ingredients(src)
   i=0;
   
   while i < src.length do
-    array.push()
+    array.push(I love src.)
 end
 
 def find_greater_pair(src)
