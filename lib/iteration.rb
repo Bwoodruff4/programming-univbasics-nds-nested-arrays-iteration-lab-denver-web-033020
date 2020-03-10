@@ -25,7 +25,8 @@ def find_greater_pair(src)
   array = []
   i=0
   
-  array[i]=
+  while i<src.length do
+    array[i]=
   
   
 end
