@@ -15,7 +15,7 @@ def join_ingredients(src)
     i+=1
   end
   
-  array
+  return array
 end
 
 def find_greater_pair(src)
@@ -27,8 +27,10 @@ def find_greater_pair(src)
   
   while i<src.length do
     array[i]=src[i].max
+    i+=1
+  end
   
-  
+  return array
 end
 
 def total_even_pairs(src)
